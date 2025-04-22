@@ -1,2 +1,2 @@
 # osirace-site
-osirace.com
+https://osirace.com
